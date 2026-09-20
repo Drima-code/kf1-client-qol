@@ -1,0 +1,9 @@
+; Merge these values into ~/.killingfloor/System/KillingFloor.ini.
+; Replace 1920/1080 with your monitor's native resolution.
+
+[WinDrv.WindowsClient]
+WindowedViewportX=1920
+WindowedViewportY=1080
+FullscreenViewportX=1920
+FullscreenViewportY=1080
+

@@ -1,0 +1,9 @@
+; Merge these lines into ~/.killingfloor/System/User.ini.
+; Change FOV values to taste. These are local console commands only.
+
+F=QuickHeal
+F7=FOV 90
+F8=FOV 100
+F9=FOV 110
+F10=ShowHud
+
